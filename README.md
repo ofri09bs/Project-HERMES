@@ -1,4 +1,4 @@
-# 🦉 Project HERMES: Steganography & Cryptography Suite
+# Steganography & Cryptography Framework
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![Security](https://img.shields.io/badge/Encryption-AES--128-green.svg)
